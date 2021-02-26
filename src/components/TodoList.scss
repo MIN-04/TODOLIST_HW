@@ -1,0 +1,19 @@
+.TodoList {
+  min-height: 320px;
+  max-height: 513px;
+  overflow-y: auto;
+}
+
+.NoList {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6rem;
+
+  //background: #22b8cf;
+  color: grey;
+  height: 4rem;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
